@@ -9,3 +9,11 @@ val Pink80 = Color(0xFFEFB8C8)
 val Purple40 = Color(0xFF6650a4)
 val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
+
+//Renklerim
+var AnaRenk = Color(0xFFCB2020)
+val YaziRenk1 = Color(0xFFFFFFFF)
+var YaziRenk2 = Color(0xFF636363)
+//Dark mod
+val AnaRenkDark = Color(0xFFEF6C00)
+val YaziRenk2Dark = Color(0xFF9F9F9F)
